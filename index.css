@@ -6,6 +6,9 @@
 body {
     padding: 1rem;
     font-family: 'Silkscreen', sans-serif;
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
 }
 
 .container {
@@ -16,7 +19,7 @@ body {
     padding: 2rem;
     background-color: #1F2937;
     color: white;
-    max-width: 100%;
+    max-width: 500px;
     height: 320px;
     border-radius: 5px;
     margin: 0 auto;
