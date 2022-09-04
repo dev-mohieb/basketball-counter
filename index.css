@@ -9,7 +9,6 @@ body {
     display: grid;
     place-items: center;
     min-height: 100vh;
-    width: 100vw;
 }
 
 .container {
@@ -20,7 +19,7 @@ body {
     padding: 2rem;
     background-color: #1F2937;
     color: white;
-    max-width: 100%;
+    max-width: 400px;
     height: 320px;
     border-radius: 5px;
     margin: 0 auto;
